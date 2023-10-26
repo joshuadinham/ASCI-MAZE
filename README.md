@@ -12,6 +12,6 @@ This project will have these features before it is considered a complete prototy
 
 1. The user will generate a maze when prompted for 1. a width size, 2. length size, and 3. ASCI character to use for their in game character
 2. The user will be able will start at the block designated to be the entrance
-3. The user can move in empty spaces and must follow the path out of the maze
+3. The user can move in empty spaces (using WSAD and directional keys) and must follow the path out of the maze
 4. the user will collide with the asci characters making up the walls of the maze
 5. When the user exits the maze they will be prompted with the option of ending the game or regenerating a new maze
